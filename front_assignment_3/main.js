@@ -17,9 +17,9 @@ var crypto = require('crypto');
 var mysql = require('mysql');
 var db = mysql.createConnection({
   host     : 'localhost',
-  user     : 'root',
-  password : 'jason7406',
-  database : 'spursfanclub'
+  user     : '',
+  password : '',
+  database : ''
 });
 db.connect();
 
