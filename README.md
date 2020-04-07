@@ -28,7 +28,7 @@
 • 原本图片加载的流程是从mysql拿到对应的blob数据，在main.js变到UML的形式。然后传给到img tag的data-src=" "里
 
 
-##	关于工作量的内容
+##	关于工作量
 
 •	用Node.js(+Express)来实现了登录与注册功能，通过node main.js命令可以看main页。main页面URL是http://localhost:3000
 
